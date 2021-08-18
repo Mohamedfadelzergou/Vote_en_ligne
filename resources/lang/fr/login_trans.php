@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title_page' => 'Connexion',
+    'Welcome' => 'Content de te revoir !',
+    'Sign' => 'Connectez-vous pour continuer vers Vote En Ligne.',
+    'Email' => 'Email',
+    'Password' => 'Mot de passe',
+    'Remember' => 'rappelles moi',
+    'Forgot' => 'Mot de passe oublié?',
+    'Login' => 'Connexion',
+    'Sign_in_with' => 'Se connecter avec',
+    'account' => "Vous n'avez pas de compte ?",
+    'Signup' => "S'inscrire maintenant",
+    'med_fadel' => 'Mohamed Fadel Zergou',
+    'bio_med' => "Je me sens confiant de m'imposer un changement. C'est beaucoup plus amusant de progresser que de regarder en arrière.",
+    'position_med' =>'Développeur Full Stack',
+    'lila' => 'Lila',
+    'bio_lila' => "Notre tâche doit être de nous libérer en élargissant notre cercle de compassion pour embrasser tous les êtres vivants et l'ensemble de quis consectetur nunc sit amet semper justo. nature et sa beauté.",
+    'position_lila' =>'Développeur Full Stack',
+    'nora' => 'Nora',
+    'bio_nora' => "J'ai appris que les gens oublieront ce que vous avez dit, les gens oublieront ce que vous avez fait, mais les gens n'oublieront jamais ce que vous leur avez fait ressentir.",
+    'position_nora' =>'Développeur Full Stack',
+    'copywrite' => 'Master GNLC',
+    'urlcopywrite' => 'Par Med fadel , Lila et Nora.',
+    'Crafted_with' => 'Fabriqué avec',
+];

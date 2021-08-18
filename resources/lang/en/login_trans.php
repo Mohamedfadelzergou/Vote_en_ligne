@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title_page' => 'Login',
+    'Welcome' => 'Welcome Back !',
+    'Sign' => 'Sign in to continue to Minia.',
+    'Email' => 'Email',
+    'Password' => 'Password',
+    'Remember' => 'Remember me',
+    'Forgot' => 'Forgot Your Password?',
+    'Login' => 'Log In',
+    'Sign_in_with' => 'Sign in with',
+    'account' => 'Do not have an account ?',
+    'Signup' => 'Signup now',
+    'med_fadel' => 'Mohamed Fadel Zergou',
+    'bio_med' => 'I feel confident imposing change on myself. It&apos;s a lot more progressing fun than looking back.',
+    'position_med' =>'Full Stack Developer',
+    'lila' => 'Lila',
+    'bio_lila' => 'Our task must be to free ourselves by widening our circle of compassion to embrace all living creatures and the whole of quis consectetur nunc sit amet semper justo. nature and its beauty.',
+    'position_lila' =>'Full Stack Developer',
+    'nora' => 'Nora',
+    'bio_nora' => 'I&apos;ve learned that people will forget what you said, people will forget what you did, but people will never forget how donec in efficitur lectus, nec lobortis metus you made them feel.',
+    'position_nora' =>'Full Stack Developer',
+    'copywrite' => 'Master GNLC',
+    'urlcopywrite' => 'By Med fadel , Lila et Nora.',
+    'Crafted_with' => 'Crafted with',
+];
